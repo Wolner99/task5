@@ -1,0 +1,52 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+#start-inf {
+    padding: 15px;
+    margin: 10px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    font-size: 18px;
+}
+.list {
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    line-height: 30px;
+    font-size: 18px;
+}
+.image-container {
+    text-align: center;
+}
+img {
+    width: 400px;
+}
+section {
+    padding: 15px;
+    background-color: whitesmoke;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+p {
+    margin-left: 10px;
+}
+h1 {
+    text-align: center;
+    margin: 15px;
+}
+h2 {
+    text-align: center;
+}
+a {
+    color: darkred;
+}
+li::marker {
+    color: black;
+}
+span {
+    color: darkblue;
+}
